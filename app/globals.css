@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+from-button-primary-100 {
+  --tw-gradient-from: #499fff var(--tw-gradient-from-position);
+}
+button-primary-200 {
+  color: rgb(13 67 126);
+  --tw-gradient-to: #1475e1 var(--tw-gradient-to-position);
+}
+a {
+  color: white;
+}
